@@ -7,11 +7,11 @@
 # Como testar?
 <!-- detalhe resumidamente os passos para validar a alteração localmente ou em homologação -->
 
-# Clickup card
+# Jira card
 [Número do card](link aqui)
 
 # Checklist
-- [ ] branch criada a partir da `main`
+- [ ] branch criada a partir da `develop`
 - [ ] testes realizados localmente
 - [ ] conflitos resolvidos (se aplicável)
 - [ ] documentação/`docs` atualizada (se aplicável)
