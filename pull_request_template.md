@@ -7,7 +7,7 @@
 # Como testar?
 <!-- detalhe resumidamente os passos para validar a alteração localmente ou em homologação -->
 
-# Jira card
+# DEV Ops card
 [Número do card](link aqui)
 
 # Checklist
